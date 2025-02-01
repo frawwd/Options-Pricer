@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\F\\source\\repos\\Options Pricer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\specs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,24 +23,16 @@
       "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\option.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:option.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|C:\\Users\\F\\source\\repos\\Options Pricer\\include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{057C70D7-DA1B-4E2C-8912-C1F7AB41D4E8}|Options Pricer.vcxproj|solutionrelative:include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\vcpkg\\installed\\x64-windows\\include\\raygui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,37 +71,40 @@
               "RelativeDocumentMoniker": "option.cpp",
               "ToolTip": "C:\\Users\\F\\source\\repos\\Options Pricer\\option.cpp",
               "RelativeToolTip": "option.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T14:07:05.876Z"
+              "WhenOpened": "2025-01-31T14:07:05.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "option.h",
               "DocumentMoniker": "C:\\Users\\F\\source\\repos\\Options Pricer\\option.h",
               "RelativeDocumentMoniker": "option.h",
               "ToolTip": "C:\\Users\\F\\source\\repos\\Options Pricer\\option.h",
               "RelativeToolTip": "option.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T14:07:03.604Z"
+              "WhenOpened": "2025-01-31T14:07:03.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "app.cpp",
               "DocumentMoniker": "C:\\Users\\F\\source\\repos\\Options Pricer\\app.cpp",
               "RelativeDocumentMoniker": "app.cpp",
               "ToolTip": "C:\\Users\\F\\source\\repos\\Options Pricer\\app.cpp",
               "RelativeToolTip": "app.cpp",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAAJAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T14:06:36.79Z"
+              "WhenOpened": "2025-01-31T14:06:36.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "app.h",
               "DocumentMoniker": "C:\\Users\\F\\source\\repos\\Options Pricer\\app.h",
               "RelativeDocumentMoniker": "app.h",
@@ -109,11 +112,12 @@
               "RelativeToolTip": "app.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T14:06:27.866Z"
+              "WhenOpened": "2025-01-31T14:06:27.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "include.h",
               "DocumentMoniker": "C:\\Users\\F\\source\\repos\\Options Pricer\\include.h",
               "RelativeDocumentMoniker": "include.h",
@@ -121,11 +125,12 @@
               "RelativeToolTip": "include.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T14:04:56.539Z"
+              "WhenOpened": "2025-01-31T14:04:56.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "util.h",
               "DocumentMoniker": "C:\\Users\\F\\source\\repos\\Options Pricer\\util.h",
               "RelativeDocumentMoniker": "util.h",
@@ -133,11 +138,12 @@
               "RelativeToolTip": "util.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T14:04:23.815Z"
+              "WhenOpened": "2025-01-31T14:04:23.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "specs.h",
               "DocumentMoniker": "C:\\Users\\F\\source\\repos\\Options Pricer\\specs.h",
               "RelativeDocumentMoniker": "specs.h",
@@ -145,11 +151,12 @@
               "RelativeToolTip": "specs.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T14:03:28.482Z"
+              "WhenOpened": "2025-01-31T14:03:28.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\F\\source\\repos\\Options Pricer\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",

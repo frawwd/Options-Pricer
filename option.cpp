@@ -21,3 +21,8 @@ void Option::calc_put_price() {
 	put_price = strike_price * std::exp(-risk_free_intrest * time_to_maturity) * util::normalCDF(-d2) - current_asset_price * util::normalCDF(-d1);
 	if (put_price < 0) put_price = 0;
 }
+
+void Option::normalize_prices() {
+	call_price = std::ceil(call_price * 100.0) / 100.0;
+	put_price = std::ceil(put_price * 100.0) / 100.0;
+}

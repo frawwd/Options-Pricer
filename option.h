@@ -8,6 +8,8 @@ public:
 	void calc_call_price();
 	void calc_put_price();
 
+	void normalize_prices();
+
 	float call_price;
 	float put_price;
 

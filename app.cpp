@@ -87,9 +87,8 @@ void App::window() {
         opt.calc_d2();
         opt.calc_call_price();
         opt.calc_put_price();
+        opt.normalize_prices();
     }
-
-    long long int luke;
 
     ImGui::End();
 }
