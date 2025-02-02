@@ -1,13 +1,15 @@
 ﻿#include "include.h"
 
+#include <Windows.h>
+
 #include "app.h"
 #include "specs.h"
 
-int main() {
+int WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,LPSTR lpCmdLine,int nShowCmd) {
     if (!glfwInit())
         return -1;
 
-    GLFWwindow* window = glfwCreateWindow(1280, 720, specs::screen_title, NULL, NULL);
+    GLFWwindow* window = glfwCreateWindow(720, 490, specs::screen_title, NULL, NULL);
     if (!window)
     {
         glfwTerminate();

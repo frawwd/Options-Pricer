@@ -52,7 +52,8 @@ void App::run() {
 
         // Example window
         window();
-        ImGui::ShowDemoWindow(&demo_window);
+
+        /*ImGui::ShowDemoWindow(&demo_window);*/
 
         // Rendering
         ImGui::Render();
@@ -69,7 +70,7 @@ void App::run() {
 }
 
 void App::window() {
-    ImGui::Begin(specs::screen_title);
+    ImGui::Begin(specs::screen_title, nullptr, ImGuiWindowFlags_NoMove | ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoResize);
 
     ImGui::Text("Call Prices %f", opt.call_price);
     ImGui::Text("Put Prices %f", opt.put_price);
